@@ -4,7 +4,7 @@
   Steam Desktop Authenticator
 </h1>
 <p align="center">
-  A desktop implementation of Steam's mobile authenticator app, fork from official rep with additions by val1ant.<br/>
+  A desktop implementation of Steam's mobile authenticator app, fork from official rep.<br/>
 </p>
 <h3 align="center">
   <b>WARNING: Recently there have been fake versions of SDA floating around that will steal your Steam account. Never download SDA from any place other than this github repo!</b>
