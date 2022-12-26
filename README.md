@@ -10,7 +10,7 @@
   <b>WARNING: Recently there have been fake versions of SDA floating around that will steal your Steam account. Never download SDA from any place other than this github repo!</b>
 </h3>
 <h3 align="center" style="margin-bottom:0">
-  <a href="https://github.com/Jessecar96/SteamDesktopAuthenticator/releases/latest">Download here</a>
+  <a href="https://github.com/DarkSunB0t/SDA_Linux/releases">Download here</a>
 </h3>
 <p align="center">Supports Linux. Tested on ArchLinux 5+</p>
 <br>
